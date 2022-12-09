@@ -1,9 +1,7 @@
-<h1 align="center">Tr3m0r-404</h1>
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%24.%2FNetrunner_%26;BSc+(Hons)+Ethical+Hacking;First+Year+Student" alt="Typing SVG" /></a></div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%24.%2FNetrunner_%26;BSc+(Hons)+Ethical+Hacking;First+Year+Student" align="center" style="width: 100%" />
+</div>  
 
-###
 
 <p align="center">Ethical Hacking Student @ Abertay University</p>
 
