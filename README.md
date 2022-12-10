@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%24.%2FNetrunner_%26;BSc+(Hons)+Ethical+Hacking;First+Year+Student" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=19&pause=1000&color=22F795&background=000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24.%2FNetrunner_%26;BSc+(Hons)+Ethical+Hacking+%7C+Year+1;Abertay+University" align="center" style="width: 100%" />
 </div>  
+  
 
-
-<p align="center">Ethical Hacking Student @ Abertay University</p>
 
 ###
 
