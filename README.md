@@ -6,8 +6,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/rMS1sUPhv95f2/giphy.gif?cid=ecf05e4711aeal1gahiv17gnlw6504z7ygln2qc6vviymq19&rid=giphy.gif&ct=g"  />
+  <img height="300" src="https://s9.gifyu.com/images/eb4a3db5-40cb-4de1-987c-b4c92d4923ca.gif"  />
 </div>
 
 ###
@@ -33,11 +35,7 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img height="300" src="https://s9.gifyu.com/images/eb4a3db5-40cb-4de1-987c-b4c92d4923ca.gif"  />
-</div>
 
 ###
 
