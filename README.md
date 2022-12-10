@@ -40,3 +40,23 @@
 </div>
 
 ###
+
+<p align="center">Views</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/00xNetrunner/count.svg?"  />
+</div>
+
+###
+
+<p align="center">Desktop - Arch - BSPWM</p>
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.imgur.com/4QAwnO5.png"  />
+</div>
+
+###
