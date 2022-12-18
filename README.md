@@ -8,11 +8,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="300" src="https://s9.gifyu.com/images/eb4a3db5-40cb-4de1-987c-b4c92d4923ca.gif"  />
-</div>
-
-###
 
 <h3 align="center">Learning</h3>
 
