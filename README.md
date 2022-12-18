@@ -47,10 +47,7 @@
   <img src="https://profile-counter.glitch.me/00xNetrunner/count.svg?"  />
 </div>
 
-###
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Netrunner404.png" alt="TryHackMe">
-</div>
+
 <p align="center">Desktop - Arch - BSPWM</p>
 
 ###
