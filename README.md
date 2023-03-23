@@ -43,12 +43,4 @@
 </div>
 
 
-<p align="center">Desktop - Arch - BSPWM</p>
-
-###
-
-<div align="center">
-  <img height="500" src="https://i.imgur.com/4QAwnO5.png"  />
-</div>
-
 
