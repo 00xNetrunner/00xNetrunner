@@ -9,7 +9,7 @@
 <br clear="both">
 
 
-<h3 align="center">Learning</h3>
+<h3 align="center">Skills</h3>
 
 ###
 
