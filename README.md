@@ -14,7 +14,6 @@ Hey there! I'm a 27-year-old Ethical Hacking student at Abertay University on my
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Feel free to connect or follow my journey on [GitHub](https://github.com/yourusername)!
 
 
 
