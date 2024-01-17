@@ -4,7 +4,7 @@
 
 # About Me
 
-Hey there! I'm a 27-year-old Ethical Hacking student at [-REDACTED-] University on my journey to become a pentester. With a knack for all things tech, I recently built a pwnagotchi and enjoy watching comedies in my downtime. Tinkering with pentesting devices like the rubber ducky or the zero flipper is my typical day, and currently, I am leveling up my skills through TryHackMe modules. 
+Hey there! I'm a [-REDACTED-]-year-old Ethical Hacking student at [-REDACTED-] University on my journey to become a pentester. With a knack for all things tech, I recently built a pwnagotchi and enjoy watching comedies in my downtime. Tinkering with pentesting devices like the rubber ducky or the zero flipper is my typical day, and currently, I am leveling up my skills through HackTheBox modules. 
 
 # Things I am Learning 
 
