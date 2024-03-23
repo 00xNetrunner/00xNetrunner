@@ -6,6 +6,11 @@
 
 Hey there! I'm a ███████-year-old Ethical Hacking student at ███████-University on my journey to become a pentester. With a knack for all things tech, I recently built a pwnagotchi and enjoy watching comedies in my downtime. Tinkering with pentesting devices like the rubber ducky or the zero flipper is my typical day, and currently, I am leveling up my skills through HackTheBox modules. 
 
+Current Learning Path:
+$ sudo apt-get update my_skills
+$ chmod +x my_pentesting_game
+$ ./deploy_innovation && echo "Ready for the next challenge!"
+
 # Things I am Learning 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
