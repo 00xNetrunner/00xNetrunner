@@ -21,7 +21,8 @@ $ ./deploy_innovation && echo "Ready for the next challenge!"
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<img src="https://github-readme-stats.vercel.app/api?username=00xNetrunner&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha Repo Preview">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=00xNetrunner&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Netrunner's GitHub Stats">
+</p>
 
 
