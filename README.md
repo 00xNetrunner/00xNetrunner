@@ -276,7 +276,7 @@ class Netrunner:
 
 E-Mail:
 ```
-iota43_dice@icloud.com`
+iota43_dice@icloud.com
 ```
 
 Public Key:
