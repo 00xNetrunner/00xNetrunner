@@ -274,8 +274,12 @@ class Netrunner:
 
 </div>
 
-`E-Mail: iota43_dice@icloud.com`
-Public Key
+E-Mail:
+```
+iota43_dice@icloud.com`
+```
+
+Public Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
