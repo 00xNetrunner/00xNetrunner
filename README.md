@@ -13,7 +13,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  ⚡ 4TH YEAR ETHICAL HACKING STUDENT ⚡ HONORS PROJECT: NixOS Security Research  ║
+ ⚡ 4TH YEAR ETHICAL HACKING STUDENT ⚡ HONORS PROJECT: NixOS Security Research
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
