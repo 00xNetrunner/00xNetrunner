@@ -334,3 +334,11 @@ wi7hMx1q26s=
 =LAhI
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+---
+
+<div align="center">
+
+<img src="./images/smert.png" alt="СМЕРТЬ" width="400">
+
+</div>
