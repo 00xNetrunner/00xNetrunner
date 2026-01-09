@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB6F92&background=1917248D&vCenter=true&random=true&width=435&lines=%24%3A+N%CE%9ETRUNN%CE%9ER;BSc+(Hons)+Ethical+Hacking;Fear+the+lightning+that+strikes+twice;%E2%9A%A1%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB6F92&background=1917248D&vCenter=true&random=true&width=435&lines=%24%3A+N%CE%9ETRUNN%CE%9ER;BSc+(Hons)+Ethical+Hacking;Fear+the+lightning+that+strikes+twice)](https://git.io/typing-svg)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
